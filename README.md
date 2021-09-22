@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @NNK27
-- 👀 I’m interested in Data Analytics, Data Modelling, ML
+- 👋 Hi, I’m Nikhil Ninan Kurian
+- 👀 I’m interested in Data Analytics, Data Modelling, Data visualization
 - 🌱 I’m currently learning Analytics and Problem Solving
 - 📫 You can reach me here www.linkedin.com/in/nikhil-ninan-kurian 
 - 📫 You can mailto : nikhilninan27@gmail.com
